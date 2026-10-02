@@ -1,5 +1,4 @@
-````markdown
-<div align="center">
+
 
 # 🔵 FERNANDO
 
@@ -10,8 +9,6 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITAS&color=00aaff&style=for-the-badge" />
-
-</div>
 
 ---
 
@@ -31,30 +28,24 @@ const fernando = {
 
 ## ⚡ Tecnologías
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux" />
 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=00aaff&icon_color=00aaff&text_color=ffffff&bg_color=0d1117"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=00aaff&text_color=ffffff&bg_color=0d1117"/>
 
-</div>
 
----
 
 ## 🔥 Mi actividad
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&ring=00aaff&fire=0088ff&currStreakLabel=00aaff&background=0d1117" />
-
-</div>
 
 ---
 
@@ -83,7 +74,6 @@ const fernando = {
 
 ---
 
-<div align="center">
 
 ### 🌐 Encuéntrame en GitHub
 
