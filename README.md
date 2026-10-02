@@ -1,107 +1,81 @@
+<!-- Banner superior -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fernando&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Fernando_znzz%20%7C%20Developer&descAlignY=55&descSize=20)
 
-
-# 🔵 FERNANDO
-
-### 💻 Developer in Progress | 🚀 Technology | 🎯 Always Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00AFFF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Fernando+%F0%9F%91%8B;Bienvenido+a+mi+perfil+%F0%9F%92%BB;Me+gusta+crear+cosas+%F0%9F%9A%80;Siempre+aprendiendo+algo+nuevo+%F0%9F%94%A5" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=VISITAS&color=00aaff&style=for-the-badge" />
+<!-- Texto animado -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=700&lines=%C2%A1Hola!+Soy+Fernando+%F0%9F%91%8B;Tambi%C3%A9n+conocido+como+Fernando_znzz;Desarrollador+apasionado+%F0%9F%9A%80;Bienvenido+a+mi+perfil+%E2%9C%A8" />
+</h1>
 
 ---
 
-## 🧑‍💻 Sobre mí
+### 🚀 Sobre mí
 
-```js
-const fernando = {
-    nombre: "Fernando",
-    objetivo: "Convertirme en un gran desarrollador",
-    aprendiendo: ["Programación", "Desarrollo Web", "Git & GitHub"],
-    hobbies: ["💻 Programar", "🎮 Videojuegos", "🚀 Tecnología"],
-    actitud: "Nunca dejar de aprender 🔥"
-};
-````
+- 🔭 Actualmente trabajando en **proyectos personales**
+- 🌱 Aprendiendo nuevas tecnologías cada día
+- 💬 Pregúntame sobre **programación, desarrollo web o lo que quieras**
+- ⚡ Fun fact: **Me encanta programar y crear cosas nuevas**
 
 ---
 
-## ⚡ Tecnologías
+### 🛠️ Tecnologías y herramientas
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux" />
-
-
-## 📊 GitHub Stats
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=00aaff&icon_color=00aaff&text_color=ffffff&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&title_color=00aaff&text_color=ffffff&bg_color=0d1117"/>
-
-
-
-## 🔥 Mi actividad
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&ring=00aaff&fire=0088ff&currStreakLabel=00aaff&background=0d1117" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Proyectos
+### 📊 Estadísticas de GitHub
 
-| Proyecto        | Descripción        | Tecnologías     |
-| --------------- | ------------------ | --------------- |
-| 💻 Mi Portfolio | Mi página personal | HTML • CSS • JS |
-| 🎮 Proyecto 01  | Proyecto personal  | HTML • CSS      |
-| 🚀 Proyecto 02  | En desarrollo      | JavaScript      |
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando_znzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando_znzz&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
 
----
-
-## 🎯 Actualmente
-
-🔵 Aprendiendo programación
-🔵 Creando proyectos personales
-🔵 Mejorando mis conocimientos de Git y GitHub
-🔵 Explorando nuevas tecnologías
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fernando_znzz&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 💙 Objetivo
+### 🏆 Trofeos
 
-> **"No necesito ser el mejor hoy. Solo necesito ser mejor que ayer."**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fernando_znzz&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+</p>
 
 ---
 
+### 📈 Gráfico de actividad
 
-### 🌐 Encuéntrame en GitHub
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fernando_znzz&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-<a href="https://github.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-00AAFF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-<br><br>
+### 📫 Contacto
 
-### ⭐ Gracias por visitar mi perfil
+<p align="center">
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/tu_usuario">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tu_usuario">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=120&section=footer"/>
+---
 
-
-### 🔥 Para que quede realmente brutal
-
-Dime **tu nombre de usuario de GitHub** (por ejemplo `fernando123`) y te lo dejo ya configurado **sin `TU_USUARIO`**, incluyendo:
-
-* 🔵 Diseño azul/neón
-* 👨‍💻 Presentación personalizada
-* 📊 Estadísticas reales
-* 🔥 Racha de commits
-* 🧠 Lenguajes más usados
-* 🛠️ Tus tecnologías
-* 📁 Tus repositorios
-* 🎮 Sección de hobbies
-* 🌐 Redes sociales
-* ✨ Animaciones
-* 🌊 Banner animado
-
-Así solo haces **copiar → pegar → guardar**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitarme%20%E2%AD%90&fontSize=20&fontColor=ffffff" />
+</p>
