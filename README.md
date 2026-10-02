@@ -1,7 +1,7 @@
-```markdown
+
 # 👋 ¡Hola! Soy Fernando
 
-<div align="center">
+
 
 # 🔵 FERNANDO
 
@@ -34,5 +34,3 @@
 
 ## ⭐ ¡Gracias por visitar mi perfil!
 
-</div>
-```
